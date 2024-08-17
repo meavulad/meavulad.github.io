@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://meavulad.github.io/sitemap.html.gz
+Sitemap: https://meavulad.github.io/app/sitemap.html.gz
+Sitemap: https://meavulad.github.io/assets/sitemap.html.gz
+Sitemap: https://meavulad.github.io/css/sitemap.html.gz
+Sitemap: https://meavulad.github.io/includes/sitemap.html.gz
+Sitemap: https://meavulad.github.io/item/sitemap.html.gz
+Sitemap: https://meavulad.github.io/src/sitemap.html.gz
